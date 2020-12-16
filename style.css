@@ -1,0 +1,34 @@
+body{
+	background-color: #E1E1E1;
+}
+
+h5{
+	text-transform: uppercase;
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+	padding-bottom: 25px;
+	font-weight: lighter;
+}
+
+h2{
+	margin-bottom: 0px;
+	padding: 5px 5px 5px 25px;
+	font-weight: lighter;
+}
+
+.position-role{
+	padding-left: 25px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+/*.left-nav{
+	height: 950px;
+}*/
+
+hr{
+	margin: 50px 0px 50px 0px;
+}
